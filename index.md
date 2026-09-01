@@ -1,4 +1,5 @@
 <h1> Testing the documentation creation</h1>
+<h2> Testing the hotfix</h2>
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; max-width: 400px; font-family: -apple-system, sans-serif;">
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; max-width: 400px; font-family: -apple-system, sans-serif;">
   <div style="font-size: 12px; color: #0a66c2; font-weight: 600; margin-bottom: 6px;">LINKEDIN LEARNING</div>
